@@ -1,0 +1,9 @@
+Heart Disease Prediction Project
+Description: Developed a machine learning model to predict the likelihood of heart disease using patient data. Applied classification algorithms including Logistic Regression, Support Vector Machine (SVM), and Decision Tree.
+Key Skills: Python, Pandas, Scikit-learn, Seaborn, Data Preprocessing, EDA, Machine Learning Models.
+Highlights:
+
+Performed exploratory data analysis to identify key trends and correlations in patient health metrics.
+Implemented and compared multiple classification models to determine the best-performing algorithm.
+Achieved a model accuracy of X% using [best algorithm], optimizing hyperparameters with GridSearchCV.
+Visualized results and insights with Seaborn for better interpretability.
