@@ -31,8 +31,8 @@ Cholesterol |High cholesterol levels are associated with heart disease <br>
 | Model | Accuracy (R² Score) |
 |-------|---------------------|
 Linear Regression | 83.0% <br>
-SVM | 85.0% <br>
-Decision Tree | 77.0% ✅ (Best Model) 
+SVM | 85.0% ✅ (Best Model)<br>
+Decision Tree | 77.0% <br> 
 
 🔹 Support Vector Machine achieved the highest accuracy (85.0%), making it the optimal choice for predictions. <br>
 
