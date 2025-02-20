@@ -30,7 +30,7 @@ Cholesterol |High cholesterol levels are associated with heart disease <br>
 ## 📊 Model Performance & Accuracy <br>
 | Model | Accuracy |
 |-------|---------------------|
-Linear Regression | 83.0% <br>
+Logistic Regression | 83.0% <br>
 SVM | 85.0% ✅ (Best Model)<br>
 Decision Tree | 77.0% <br> 
 
